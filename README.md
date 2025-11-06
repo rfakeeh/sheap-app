@@ -1,10 +1,10 @@
-# Shaab Project | مشروع شِعاب
+# Sheap Project | مشروع شِعاب
 
 A real-time navigation and safety app for pilgrims in the Holy Mosques to ensure peace of mind and group safety.
 
 ## 🎯 Project Goal
 
-Shaab aims to solve the problem of getting lost and anxiety for visitors to Makkah and Madinah, especially for families and the elderly, through a precise and reliable tracking and navigation system that works even in the most challenging conditions (extreme crowds and network outages).
+Sheap aims to solve the problem of getting lost and anxiety for visitors to Makkah and Madinah, especially for families and the elderly, through a precise and reliable tracking and navigation system that works even in the most challenging conditions (extreme crowds and network outages).
 
 ## ✨ Core Features
 
