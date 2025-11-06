@@ -1,10 +1,10 @@
-# Sheap Project | مشروع شِعاب
+# Shaab Project | مشروع شِعاب
 
 A real-time navigation and safety app for pilgrims in the Holy Mosques to ensure peace of mind and group safety.
 
 ## 🎯 Project Goal
 
-Sheap aims to solve the problem of getting lost and anxiety for visitors to Makkah and Madinah, especially for families and the elderly, through a precise and reliable tracking and navigation system that works even in the most challenging conditions (extreme crowds and network outages).
+Shaab aims to solve the problem of getting lost and anxiety for visitors to Makkah and Madinah, especially for families and the elderly, through a precise and reliable tracking and navigation system that works even in the most challenging conditions (extreme crowds and network outages).
 
 ## ✨ Core Features
 
@@ -27,7 +27,7 @@ Sheap aims to solve the problem of getting lost and anxiety for visitors to Makk
 This project is built on a cloud-native, scalable infrastructure to serve millions of users.
 
 | **Component** | **Technology Used** | 
-| :--- | :--- |
+ | ----- | ----- | 
 | **Mobile App** | `Flutter` | 
 | **Mapping** | `Mapbox` (for Offline & Indoor Maps) | 
 | **Backend Logic** | `AWS Fargate` (Python / Java) | 
@@ -38,5 +38,13 @@ This project is built on a cloud-native, scalable infrastructure to serve millio
 | **AR Module** | `Unity (C#)` / `ML Kit` | 
 | **Notifications** | `Amazon SNS` | 
 | **Storage** | `Amazon S3` | 
+
+## 🏗️ Architecture
+
+The following diagram shows the high-level system architecture, designed for scalability and real-time performance.
+
+*(Note: Assumes the image is saved in a folder named `docs` inside your repository)*
+![HaramConnect Scalable AWS Architecture](docs/architecture.png)
+
 
 *This repository contains the source code for the Shaab Project as part of the submission requirements.*
