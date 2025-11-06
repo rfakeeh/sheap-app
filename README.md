@@ -22,6 +22,14 @@ Shaab aims to solve the problem of getting lost and anxiety for visitors to Makk
 
 * **SOS Alerts:** An emergency button to send an alert and location to all group members.
 
+
+## 🏗️ Architecture
+
+The following diagram shows the high-level system architecture, designed for scalability and real-time performance.
+
+![HaramConnect Scalable AWS Architecture](docs/architecture.png)
+
+
 ## 💻 Technology Stack
 
 This project is built on a cloud-native, scalable infrastructure to serve millions of users.
@@ -39,12 +47,6 @@ This project is built on a cloud-native, scalable infrastructure to serve millio
 | **Notifications** | `Amazon SNS` | 
 | **Storage** | `Amazon S3` | 
 
-## 🏗️ Architecture
-
-The following diagram shows the high-level system architecture, designed for scalability and real-time performance.
-
-*(Note: Assumes the image is saved in a folder named `docs` inside your repository)*
-![HaramConnect Scalable AWS Architecture](docs/architecture.png)
 
 
 *This repository contains the source code for the Shaab Project as part of the submission requirements.*
