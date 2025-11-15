@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"sheap-app","appId":"1:641761547368:android:13067c4f2cdddfe4fd57dd","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"sheap-app","configurations":{"android":"1:641761547368:android:13067c4f2cdddfe4fd57dd","ios":"1:641761547368:ios:77bc78966260de76fd57dd"}}}}}}
