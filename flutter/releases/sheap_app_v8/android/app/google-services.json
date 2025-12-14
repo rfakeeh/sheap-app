@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641761547368",
+    "project_id": "sheap-app",
+    "storage_bucket": "sheap-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641761547368:android:13067c4f2cdddfe4fd57dd",
+        "android_client_info": {
+          "package_name": "com.example.sheap_app_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOAllVQJRtPcliJAA9GM6mRkzMGD1tlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
